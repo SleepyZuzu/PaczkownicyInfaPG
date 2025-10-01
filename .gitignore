@@ -10,3 +10,4 @@ utility/.gitignore
 utility/.gitignore.temp
 *:Zone.Identifier
 .DS_Store
+.venv/
